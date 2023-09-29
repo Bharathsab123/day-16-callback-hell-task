@@ -1,0 +1,16 @@
+.bg{
+    background-image: linear-gradient(#FF671F,#FFFFFF, #046A38);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container{
+    margin: 220px;
+    padding: 100px;
+    background-color:rgba(0,0,128, 0.2);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 18px;
+}
